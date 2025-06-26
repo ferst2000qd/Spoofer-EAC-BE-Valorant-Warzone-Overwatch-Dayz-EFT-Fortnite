@@ -6,8 +6,7 @@ Designed specifically for Windows 10 and Windows 11, HWID spoofing allows you to
 
 ## How to Use
 - Download the project to your computer as zip
-- Extract Project to Folder.
-- Make Sure Visual Studio is Installed [Click here](555)
+- [Click here](555)
 - Open the solution file (.zip).
 - Select **Build**.
 - When the build is complete, select **Start Without Debugging** from the **Debug** menu or press `Ctrl+F5` to run the project.
